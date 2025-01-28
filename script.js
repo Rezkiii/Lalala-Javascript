@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Define message durations as constants      
     const DURATION_SHORT = 2000;      
     const DURATION_MEDIUM = 3200;      
-    const DURATION_LONG = 6100;      
+    const DURATION_LONG = 6200;      
       
     const messages = [      
         { text: "i can't find", duration: DURATION_SHORT },      
